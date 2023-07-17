@@ -1,0 +1,70 @@
+[
+  {
+    "EmployeeId": 1,
+    "LastName": "Doe",
+    "FirstName": "John",
+    "DepartmentId": null,
+    "Title": "Software Engineer",
+    "TitleOfCourtesy": "Mr.",
+    "BirthDate": "1990-05-15T00:00:00",
+    "HireDate": null,
+    "Address": null,
+    "Department": {
+      "DepartmentId": 0,
+      "DepartmentName": "IT",
+      "DepartmentType": null,
+      "Employees": null
+    }
+  },
+  {
+    "EmployeeId": 2,
+    "LastName": "Smith",
+    "FirstName": "Jane",
+    "DepartmentId": null,
+    "Title": "HR Manager",
+    "TitleOfCourtesy": "Ms.",
+    "BirthDate": "1985-10-25T00:00:00",
+    "HireDate": null,
+    "Address": null,
+    "Department": {
+      "DepartmentId": 0,
+      "DepartmentName": "HR",
+      "DepartmentType": null,
+      "Employees": null
+    }
+  },
+  {
+    "EmployeeId": 3,
+    "LastName": "Johnson",
+    "FirstName": "Mike",
+    "DepartmentId": null,
+    "Title": "Accountant",
+    "TitleOfCourtesy": "Mr.",
+    "BirthDate": "1988-07-12T00:00:00",
+    "HireDate": null,
+    "Address": null,
+    "Department": {
+      "DepartmentId": 0,
+      "DepartmentName": "Finance",
+      "DepartmentType": null,
+      "Employees": null
+    }
+  },
+  {
+    "EmployeeId": 4,
+    "LastName": "aaaa",
+    "FirstName": "sad",
+    "DepartmentId": null,
+    "Title": "huta",
+    "TitleOfCourtesy": "mr",
+    "BirthDate": "1988-09-07T00:00:00",
+    "HireDate": null,
+    "Address": null,
+    "Department": {
+      "DepartmentId": 0,
+      "DepartmentName": "IT",
+      "DepartmentType": null,
+      "Employees": null
+    }
+  }
+]

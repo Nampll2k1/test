@@ -1,0 +1,43 @@
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.csproj.AssemblyReference.cache
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\App.g.cs
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson_MarkupCompile.cache
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson_MarkupCompile.lref
+D:\Ky 7\PRN221\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.exe
+D:\Ky 7\PRN221\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.deps.json
+D:\Ky 7\PRN221\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.runtimeconfig.json
+D:\Ky 7\PRN221\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.dll
+D:\Ky 7\PRN221\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.pdb
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.g.resources
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.AssemblyInfoInputs.cache
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.AssemblyInfo.cs
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.csproj.CoreCompileInputs.cache
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.dll
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\refint\ReadFileJson.dll
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.pdb
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.genruntimeconfig.cache
+D:\Ky 7\PRN221\ReadFileJson\obj\Debug\net6.0-windows\ref\ReadFileJson.dll
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.exe
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\bin\Debug\net6.0-windows\employee.json
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.deps.json
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.runtimeconfig.json
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.dll
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\bin\Debug\net6.0-windows\ReadFileJson.pdb
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson_MarkupCompile.cache
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson_MarkupCompile.lref
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.g.resources
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.AssemblyInfo.cs
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.dll
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\refint\ReadFileJson.dll
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.pdb
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ReadFileJson.genruntimeconfig.cache
+C:\Users\PC\Desktop\ReadFileJson\ReadFileJson\obj\Debug\net6.0-windows\ref\ReadFileJson.dll
